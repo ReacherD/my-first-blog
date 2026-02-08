@@ -1,3 +1,8 @@
+"""
+Django can have multiple classes in one single models. 
+Each class represents a table in the database.
+"""
+
 from django.db import models
 from django.conf import settings
 from django.utils import timezone
